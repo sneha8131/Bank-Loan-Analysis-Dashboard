@@ -53,7 +53,7 @@ This project was completed as part of a Power BI/Data Analytics learning project
 
 GitHub Repository
 
-Project Repository: 
+Project Repository: https://github.com/sneha8131/Bank-Loan-Analysis-Dashboard
 
 Author
 
